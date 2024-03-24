@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WorkshopKT</string>
+    <string name="bem_vindo">Bem vindo!</string>
+    <string name="username">Usuário\n</string>
+    <string name="login">Acessar</string>
+    <string name="cadastre_se">Cadastre-se</string>
+    <string name="password">Senha</string>
+    <string name="usuario">Usuário</string>
+    <string name="SAIR">SAIR</string>
+</resources>
